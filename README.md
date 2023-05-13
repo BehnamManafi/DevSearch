@@ -1,6 +1,6 @@
 # DevSearch
 Sourcode and Resources for Django 2021 Course
-
+It was developed by Dennisivy in a Django course.
 See the full course here: https://dennisivy.teachable.com/p/django-beginners-course
 
 
